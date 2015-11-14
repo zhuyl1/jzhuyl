@@ -1,0 +1,19 @@
+{
+    "name": "ghost",
+    "description": "hello world",
+    "version": "0.0.1",
+    "private": true,
+    "author": {
+        "name": "mingming6",
+        "email": "mingming6@staff.sina.com.cn"
+    },
+    "dependencies" : {
+        "request": "2.65.0"
+    },
+    "engines": {
+        "node": "0.10.36"
+    },
+    "scripts":{
+        "start": "node index.js"
+    }
+}
